@@ -1,6 +1,6 @@
 # ロジックIC時計  
 ロジックICとUV-EPROMで時計を作ったのでその資料を．  
-ROMに書き込む7segインクリメンタテーブルがメインです．(7seg_table.bin)  
+ROMに書き込む7segインクリメンタテーブルがメインです．(seg_table4.bin)  
 テーブルのアドレスマップはこのようになっています．
 ![アドレスマップ](https://github.com/cherry-takuan/logic_clock/blob/main/address_map.png)
 
